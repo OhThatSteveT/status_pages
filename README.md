@@ -44,4 +44,4 @@ A list of status pages
 * [GitLab System Status](https://status.gitlab.com)
 
 ## Backup Solutions
-* [Barracuda Networks] (https://status.barracuda.com/)
+* [Barracuda Networks](https://status.barracuda.com/)
